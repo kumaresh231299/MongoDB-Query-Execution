@@ -5,7 +5,7 @@
 
 - Then insert the Prodcuts.json values.
 
-***Finally execute the below queries.***
+***Finally run the MongoDB query as shown below.***
 
 01. Find all the information about each products
 02. Find the product price which are between 400 to 800
